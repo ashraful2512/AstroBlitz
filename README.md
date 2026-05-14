@@ -1,16 +1,50 @@
-# React + Vite
+# 🚀 AstroBlitz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌌 Interactive Space Exploration Dashboard built with React + Vite.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+👉 https://ashraful2512.github.io/AstroBlitz/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# ✨ Features
 
-## Expanding the ESLint configuration
+- 🌍 Interactive Planet Comparison Charts
+- 🛰️ ISS Orbit Tracking Simulation
+- 🌙 Moon Phase Tracker with Date Selection
+- 🌌 Galaxy Explorer with Animated Space Map
+- ☄️ Meteor Shower Visualization
+- 📊 Space Analytics Dashboard
+- 🎨 Modern Cosmic UI with Animations
+- ⚡ Built using React + Vite for fast performance
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+# 🛠️ Tech Stack
+
+- React 19
+- Vite
+- Framer Motion
+- Chart.js
+- React ChartJS 2
+- D3.js
+- Lucide React Icons
+- CSS / Tailwind-style utility classes
+
+---
+
+# 📸 Preview
+
+Visit the live website:
+
+👉 https://ashraful2512.github.io/AstroBlitz/
+
+---
+
+# 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ashraful2512/AstroBlitz.git
