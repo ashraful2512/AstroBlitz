@@ -34,17 +34,62 @@
 
 ---
 
-# 📸 Preview
+# 🚀 Installation & Setup
 
-Visit the live website:
+Follow these steps to run AstroBlitz locally on your system.
 
-👉 https://ashraful2512.github.io/AstroBlitz/
-
----
-
-# 🚀 Installation
-
-Clone the repository:
+## 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/ashraful2512/AstroBlitz.git
+```
+
+---
+
+## 2️⃣ Navigate to Project Folder
+
+```bash
+cd AstroBlitz
+```
+
+---
+
+## 3️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+## 4️⃣ Start Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+## 5️⃣ Open in Browser
+
+After running the development server, open:
+
+```txt
+http://localhost:5173
+```
+
+---
+
+# 📦 Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+# 🌐 Deploy to GitHub Pages
+
+```bash
+npm run deploy
+```
